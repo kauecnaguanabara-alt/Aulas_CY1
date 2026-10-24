@@ -9,4 +9,4 @@ totalengrenagem = totalsegmentos * item
 totalremedios = totalsegmentos * armas
 
 # Adicionada a vírgula que faltava depois de totalengrenagem
-print("Seu jogo possui", totalsegmentos, "segmentos com", totalengrenagem, "engrenagens e", totalremedios, "remedios.")
+print("Seu jogo possui", totalsegmentos, "segmentos com", totalengrenagem, "engrenagens e", totalremedios, "remedios.")e5u´p0r6pki0
